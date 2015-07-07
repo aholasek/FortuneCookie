@@ -1,4 +1,4 @@
-
+$('a').hover(function()
 
 	function fcookie(){
 var random = new Array("Try Again Later... I'm Sleeping... [Yes, Fortune Cookies Need Their Sleep Too]", "You will be rich", "You will fall", "You will be poor");
