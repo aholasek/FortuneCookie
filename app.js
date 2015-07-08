@@ -1,4 +1,4 @@
-$("img").hover(function(){
+$('#for').hover(function(){
 	image.style.width = '22%';
 	image.style.height = 'auto';
 
