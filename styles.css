@@ -8,3 +8,13 @@ body {
 	background-color: #FF003C;
 
 }
+
+div#candlez {
+	padding-top: 80px;
+	position:relative;
+}
+
+img#candle2 {
+	padding-left:1070.4567px;
+	position: absolute;
+}
