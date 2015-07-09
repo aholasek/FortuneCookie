@@ -18,3 +18,8 @@ img#candle2 {
 	padding-left:1070.4567px;
 	position: absolute;
 }
+p.fc {
+	font-family:sans-serif;
+	color:blue;
+	font-size:50px;
+}
