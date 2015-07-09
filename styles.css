@@ -4,10 +4,13 @@ header {
 	font-family: 'Ravi Prakash', cursive;
 	font-size:30px;
 }
-body {
-	background-image: url("http://www.designer-download.com/wp-content/uploads/2013/10/Traditional-retro-Chinese-style-background-design-psd.jpg")
-
-
+html {
+	background: url("BCK.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: 90%;
+	background-color: brown;
 }
 
 div#candlez {
@@ -26,7 +29,7 @@ img#candle3 {
 }
 p#cookie {
 	font-family: 'Ravi Prakash', cursive;
-	font-size: 25px;
+	font-size: 100px;
 
 }
 
