@@ -4,7 +4,3 @@ function fcookie()
 	var thing = [Math.floor(Math.random() * 4)];
 	document.getElementById("cookie").innerHTML = random[thing];
 }
-function save()
-{
-	alert('hi');
-}
