@@ -9,3 +9,10 @@ var random = new Array("Intentarlo más tarde ... Estoy durmiendo ... [Sí, Fort
 var thing = [Math.floor(Math.random() * 27)];
 document.getElementById("cookie").innerHTML = random[thing];
 }
+
+function fcookiezh(){
+var random = new Array("Intentarlo más tarde ... Estoy durmiendo ... [Sí, Fortune Cookies necesitan dormir Demasiado]", "Usted tendrá hambre de nuevo en una hora.", "Cuando usted exprime una naranja, jugo de naranja sale ., porque eso es lo que hay dentro "," La fortuna que buscas está en otra galleta "," Error 404:. la fortuna no encontrado "," Ignorar Cookies Anterior "," Pick otra galleta de la suerte "," Algunas galletas de la fortuna no contienen la fortuna ", "Me gustaría saber mi propio futuro", "Ten cuidado o te podía caer en algunos trucos en la actualidad.", "Tu amor por la música será una parte importante de su vida.", "aventura puede ser la verdadera felicidad.", "Da la bienvenida a otros. Usted tendrá un día más feliz.", "Buenas noticias vendrá a usted por correo. La felicidad le traerá buena suerte.", "En 5 segundos se respira.", "no se desanime , porque cada intento equivocado descartado es otro paso adelante. "," Una agradable sorpresa te espera. "," Un viaje largo liso! Grandes expectativas "," La determinación es lo que necesita ahora. "," Que tengas un hermoso día. "," Ahora es el momento de probar algo nuevo. "," Te ves bonita "," Amas desafíos. "," Tu vida se volverá más y más emocionante. "," El cambio está sucediendo en su vida, así que ve con la corriente "," Una agradable sorpresa te espera "," No hay que subestimar a ti mismo. ");
+var thing = [Math.floor(Math.random() * 27)];
+document.getElementById("cookie").innerHTML = random[thing];
+}
+
