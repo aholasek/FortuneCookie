@@ -1,13 +1,9 @@
 
 var english = new Array("option a","option b");
-var chinese = new Array("option a","option b");
 var spanish = new Array("option a","option b");
 
 function englishClick(){
 	random=english;
-}
-function chineseClick(){
-	random=chinese;
 }
 function spanishClick(){
 	random=spanish;
