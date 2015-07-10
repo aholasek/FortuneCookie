@@ -11,7 +11,7 @@ document.getElementById("cookie").innerHTML = random[thing];
 }
 
 function fcookiezh(){
-var random = new Array("请稍后再试......我睡觉...... [是，幸运饼干需要他们睡得太]", "你将再次饿一小时。", "当你挤一个橙子，橙汁出来，因为这里面有什么。","你追求财富是在另一个饼干","错误404 ：财富没有找到。","忽略先前幸运饼干","选择另一个幸运饼干","有些幸运饼干不含财富", "我希望我知道我自己的未来", "要小心，或者你可以今天下跌的一些技巧。", "你的音乐的爱将是你生活的一个重要组成部分。", "冒险可以真正的幸福。", "善待他人，你将有一个更美好的一天。", "好消息会来找你通过邮件", "在五秒钟内，你会呼吸", "不要气馁，因为每一个错误就是又前进了一步。"," Una agradable sorpresa te espera. "," Un viaje largo liso! Grandes expectativas "," La determinación es lo que necesita ahora. "," Que tengas un hermoso día. "," Ahora es el momento de probar algo nuevo. "," Te ves bonita "," Amas desafíos. "," Tu vida se volverá más y más emocionante. "," El cambio está sucediendo en su vida, así que ve con la corriente "," Una agradable sorpresa te espera "," No hay que subestimar a ti mismo. ");
+var random = new Array("请稍后再试......我睡觉...... [是，幸运饼干需要他们睡得太]", "你将再次饿一小时。", "当你挤一个橙子，橙汁出来，因为这里面有什么。","你追求财富是在另一个饼干","错误404 ：财富没有找到。","忽略先前幸运饼干","选择另一个幸运饼干","有些幸运饼干不含财富", "我希望我知道我自己的未来", "要小心，或者你可以今天下跌的一些技巧。", "你的音乐的爱将是你生活的一个重要组成部分。", "冒险可以真正的幸福。", "善待他人，你将有一个更美好的一天。", "好消息会来找你通过邮件", "在五秒钟内，你会呼吸", "不要气馁，因为每一个错误就是又前进了一步。","令人惊喜正等着你。","光滑的漫长旅程！厚望"," La determinación es lo que necesita ahora. "," Que tengas un hermoso día. "," Ahora es el momento de probar algo nuevo. "," Te ves bonita "," Amas desafíos. "," Tu vida se volverá más y más emocionante. "," El cambio está sucediendo en su vida, así que ve con la corriente "," Una agradable sorpresa te espera "," No hay que subestimar a ti mismo. ");
 var thing = [Math.floor(Math.random() * 27)];
 document.getElementById("cookie").innerHTML = random[thing];
 }
