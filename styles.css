@@ -3,6 +3,8 @@ header {
 	background-color: #EAC117;
 	font-family: 'Ravi Prakash', cursive;
 	font-size:25px;
+	
+	
 
 }
 html {
@@ -35,6 +37,11 @@ p#cookie {
 }
 a {
 	font-size: 30px;
+
+}
+
+b#hi {
+	font-size:20px;
 
 }
 
